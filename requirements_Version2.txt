@@ -1,0 +1,15 @@
+# Flask 網頁框架
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Python 環境設定
+python-dotenv==1.0.0
+
+# Azure 語音服務
+azure-cognitiveservices-speech==1.35.0
+
+# Google Gemini API
+google-generativeai==0.3.0
+
+# 其他
+requests==2.31.0
